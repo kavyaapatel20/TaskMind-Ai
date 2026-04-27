@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989731681896",
+    "project_id": "taskmind-ai-84c79",
+    "storage_bucket": "taskmind-ai-84c79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989731681896:android:f70973e42b604f55992ddd",
+        "android_client_info": {
+          "package_name": "com.taskmind.taskmind_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvNNbn0Ilzsop5ND2IU871ce--a8MVh5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
